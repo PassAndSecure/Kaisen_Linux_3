@@ -3,6 +3,8 @@
 ## À propos
 Ce dépôt contient l'ISO pour Kaisen Linux Rolling3.0RC1 AMD64 Netinst. Nous le partageons dans le but d'aider la communauté et de faciliter l'accès à cette distribution Linux.
 
+Pour plus d'informations et d'autres outils de sécurité, visitez notre site web [PassAndSecure](https://passandsecure.fr).
+
 ## Téléchargement
 Vous pouvez télécharger l'ISO directement depuis ce dépôt via les Releases. Cliquez sur le fichier [`kaisenlinuxrolling3.0RC1-amd64-NETINST.iso`](https://github.com/PassAndSecure/Kaisen_Linux_3/releases/download/kaisenlinuxrolling3.0RC1-amd64-NETINST/kaisenlinuxrolling3.0RC1-amd64-NETINST.iso) pour le télécharger.
 
