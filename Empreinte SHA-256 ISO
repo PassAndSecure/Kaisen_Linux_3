@@ -1,0 +1,6 @@
+SHA-256:
+1b7b21bbda885926fa76d577fe77614689ca5139b72aae9eb22e49c26fc29675
+
+Vérifier l'intégrité de l'ISO :
+Sous Linux : sha256sum kaisenlinuxrolling3.0RC1-amd64-NETINST.iso
+Sous Windows : CertUtil -hashfile .\kaisenlinuxrolling3.0RC1-amd64-NETINST.iso SHA256
